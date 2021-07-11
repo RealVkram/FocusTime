@@ -27,6 +27,7 @@ const spacing = {
   xl: 32,
   xxl: 40,
   xxxxl: 80,
+  xxxxxxl: 120
 };
 
 export {fontSizes, paddingSizes, colors, spacing}
